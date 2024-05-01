@@ -9,11 +9,11 @@
 
 ## Installation
 
-Clone the repository
-Install the dependencies using Composer: composer install
-Generate an application key: php artisan key:generate
-Run the database migrations: php artisan migrate
-Start the development server: php artisan serve
+1. Clone the repository
+2. Install the dependencies using Composer: composer install
+3. Generate an application key: php artisan key:generate
+4. Run the database migrations: php artisan migrate
+5. Start the development server: php artisan serve
 
 ## About Laravel
 
